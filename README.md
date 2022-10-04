@@ -29,7 +29,7 @@ php complained about $fields_string being appended without being initialized. In
 
 curl_getinfo complained about not having anything to return, CURLINFO_HTTP_CODE was chosen as it seemed the most useful.
 
-This was originally posted by me under by full username, but that account had issues and was deleted. You can see the
+This was originally posted by me under my full username, but that account had issues and was deleted. You can see the
 original repository here: https://github.com/phanthom2o4o/goip-sms
 
 I wanted to put this here mostly for historical record, as these GoIP boxes are pretty much worthless these days (2G is limited) and
