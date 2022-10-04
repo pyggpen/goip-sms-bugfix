@@ -1,5 +1,6 @@
 # goip-sms-bugfix
-A bugfixed (haha) php script to send sms on a GoIP VOIP box
+A bugfixed (haha) php script to send sms on a GoIP VOIP box.
+
 A php script to send SMS from a GOIP VOIP box, built on previous works.
 
 This script is derived from the stackoverflow answer provided by paisapimp, and I take no credit for the original script beyond squashing some minor bugs and adding the ability to pass some things from the command line. See https://stackoverflow.com/questions/28941059/how-to-send-retrieve-sms-from-goip for the original Q&A
