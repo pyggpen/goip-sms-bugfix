@@ -1,5 +1,7 @@
 # goip-sms-bugfix
-A bugfixed (haha) php script to send sms on a GoIP VOIP box.
+A bugfixed php script to send sms on a GoIP VOIP box.
+
+"Wow, that's a busy little box!" - my friend after seeing how many lights were flashing on the thing.
 
 A php script to send SMS from a GOIP VOIP box, built on previous works.
 
@@ -34,6 +36,4 @@ original repository here: https://github.com/phanthom2o4o/goip-sms
 
 I wanted to put this here mostly for historical record, as these GoIP boxes are pretty much worthless these days (2G is limited) and
 the devices themselves were about as unstable as you could get. They'd lock up and need a reboot every few hours, which is a shame because
-they were one of the more reasonably priced SMS-capable boxes available at the time.
-
-They were also very noisy with their lights, a friend of mine said "Wow, that's a busy little box!"
+they were one of the more reasonably priced SMS-capable boxes available at the time. This isn't posted as a useful program, jsut as historical record. 
